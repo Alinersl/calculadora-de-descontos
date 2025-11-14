@@ -1,0 +1,56 @@
+body {
+    background: linear-gradient(to right, #b1a3c2, #b7e5eb, #b1a3c2, #b7e5eb);
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    justify-content: center;
+    gap: 5px;
+    border-radius: 8px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+select {
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button {
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: #b7e5eb;
+    border-color: black;
+}
+
+input {
+    padding: 10px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.resultado {
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 80%;
+    }
+
+    button {
+        width: 50%;
+    }
+}
