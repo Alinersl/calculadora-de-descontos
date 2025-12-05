@@ -6,7 +6,7 @@ Nossa Calculadora de Descontos foi criada para facilitar sua vida na hora de des
 
 ## Funcionalidades
 
-No site basta informar o valor original e a porcentagem de desconto para obter, instantaneamente, quanto você vai pagar e quanto está economizando. Rápida, prática e totalmente online, ela é a ferramenta ideal para comparar preços, aproveitar promoções e fazer compras de forma mais inteligente. Ao inserir o preço no campo de <input>, selecionar a forma de pagamento no <select> e clicar no botão "Calcular Valor Final".
+No site basta informar o valor original e a porcentagem de desconto para obter, instantaneamente, quanto você vai pagar e quanto está economizando. Rápida, prática e totalmente online, ela é a ferramenta ideal para comparar preços, aproveitar promoções e fazer compras de forma mais inteligente. Ao inserir o preço no campo de ``<input>``, selecionar a forma de pagamento no ``<select>`` e clicar no botão "Calcular Valor Final".
 
 
 <img width="182" height="39" alt="Captura de tela 2025-12-05 143500" src="https://github.com/user-attachments/assets/28914734-7fb6-4ea4-a986-2ae81bdca774" />
